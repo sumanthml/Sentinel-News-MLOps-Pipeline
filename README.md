@@ -1,7 +1,3 @@
-## 🛰 Project 2: Sentinel-News-MLOps-Pipeline
-**Location:** `/Sentinel-News-MLOps-Pipeline/README.md`
-
-```markdown
 # 🛡️ Sentinel: End-to-End News Sentiment MLOps Pipeline
 
 ![MLOps](https://img.shields.io/badge/Workflow-MLOps-green?style=for-the-badge&logo=githubactions)
